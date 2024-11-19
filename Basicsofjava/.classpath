@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="JrDeveloper"/>
+	<classpathentry kind="src" path="Manager_Rules"/>
+	<classpathentry kind="src" path="Sr_Developer"/>
+	<classpathentry kind="src" path="oops"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
